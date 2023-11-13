@@ -4,3 +4,5 @@
 User-agent: *
 Disallow:
 allow:
+robot-Allow:
+
