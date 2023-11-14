@@ -22,4 +22,4 @@ Please fork this repo and then issue PR
 by Ajay
 
 
-All rights reserved
+All rights reserved Edit edit
