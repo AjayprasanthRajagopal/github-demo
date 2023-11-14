@@ -17,6 +17,6 @@ Deployment
 
 contribute
 
-
+Please fork this repo and then issue PR
 
 by Ajay
