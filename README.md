@@ -14,3 +14,5 @@ As stated above, th emain purpose is to provide simple examples for Git training
 ## Deployment
 Deployment
 ## How to contribute
+
+contribute
