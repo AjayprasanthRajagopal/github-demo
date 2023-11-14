@@ -1,14 +1,16 @@
 
 #Github-Demo
 
-## Introduction
-
 This is a simple website project for showing how to use Git and Github together.
 
-## Purposee
+## Introduction
 
 This is example is to show different parts of the Git repository and various commands using a web project.
 
-## Deployment
+## Purposee
 
+As stated above, th emain purpose is to provide simple examples for Git training
+
+## Deployment
+Deployment
 ## How to contribute
